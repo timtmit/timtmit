@@ -59,16 +59,6 @@ Robots, end to end — mechanical design, MPC and torque control, and the ROS 2 
 
 <hr>
 
-## ⚡️ Stats
-
-<div align="center">
-  <img width=390 src="https://raw.githubusercontent.com/timtmit/timtmit/main/profile/stats.svg" alt="timtmit's GitHub Stats" />
-  <img width=390 src="https://streak-stats.demolab.com/?user=timtmit&theme=transparent&border_radius=10&locale=en" alt="timtmit's streak" />
-  <img width=325 src="https://raw.githubusercontent.com/timtmit/timtmit/main/profile/top-langs.svg" alt="timtmit's most used languages" />
-</div>
-
-<hr>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timtmit/timtmit/output/github-contribution-grid-snake-dark.svg" />
