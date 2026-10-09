@@ -13,9 +13,6 @@ Robots, end to end — mechanical design, MPC and torque control, and the ROS 2 
   <a href="https://www.linkedin.com/in/timothee-carecchio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/timtmit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 <hr>
