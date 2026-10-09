@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=600&height=60&color=4493F8&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Timoth%C3%A9e+Carecchio!;Robotics+Engineer+%40+Willow" />
-</h1>
-
 ### Research Engineer @ Willow, Inria Paris
 
 <br>
